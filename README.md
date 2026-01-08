@@ -1,16 +1,13 @@
-## Hi there 👋
+# My name is Aksel Berg Svendsen
 
-<!--
-**AkselBergSvendsen/AkselBergSvendsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a VG3 student from Norway preparing for a Bachelor's degree in Informatics at NTNU Trondheim.
 
-Here are some ideas to get you started:
+# Focus areas
+- Site Reliability Engineering (SRE)
+- Platform Engineering
+- Cloud & Infrastructure Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I'm doing now
+- Studying IT2 and self-studying IT fundamentals
+- Building small automation and infrastructure projects
+- Preparing financially and technically for university
